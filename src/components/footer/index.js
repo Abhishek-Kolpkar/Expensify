@@ -1,7 +1,7 @@
 import React from "react";
 import "./footer.css";
 const Footer = () => {
-  return <footer>Made with 🔥 by Overreacted</footer>;
+  return <footer>Made with 🔥 by Abhishek</footer>;
 };
 
 export default Footer;

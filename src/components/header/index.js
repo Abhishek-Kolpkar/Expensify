@@ -5,17 +5,17 @@ const Header = () => {
     <div className="header-container">
       <div className="header">
         <div className="header-logo">
-          Xpensr
+          Expensify
           <i class="fi-rr-credit-card" />.
         </div>
         <div className="header-button">
           <a
-            href="https://github.com/shuvamk"
+            href="https://github.com/Pro-Abhi"
             target="_blank"
             rel="noopener noreferrer"
           >
             <i class="devicon-github-original colored" />
-            Star
+            GitHub
           </a>
         </div>
       </div>
